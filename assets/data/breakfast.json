@@ -1,0 +1,20 @@
+{
+  "breakfast":
+    [
+      {
+        "name": "eggs",
+        "price": 7.99,
+        "calories": 450
+      },
+      {
+        "name": "cereal",
+        "price": 4.99,
+        "calories": 220
+      },
+      {
+        "name": "pancakes",
+        "price": 8.99,
+        "calories": 625
+      }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "dinner":
+  [
+    {
+      "name": "spaghetti",
+      "price": 12.99,
+      "calories": 600
+    },
+    {
+      "name": "Steak & Cheese",
+      "price": 10.99,
+      "calories": 580
+    },
+    {
+      "name": "Meatball Sandwich",
+      "price": 8.99,
+      "calories": 525
+    }
+  ]
+}
